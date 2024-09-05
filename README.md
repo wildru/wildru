@@ -1,7 +1,5 @@
-- 👋 hello this is @wildru
-- 🌱 I’m currently learning godot
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i am the ru
+- hello this is @wildru
+- pika pika
 
 <!---
 wildru/wildru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
