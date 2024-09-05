@@ -1,5 +1,4 @@
 - hello this is @wildru
-- pika pika
 
 <!---
 wildru/wildru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
